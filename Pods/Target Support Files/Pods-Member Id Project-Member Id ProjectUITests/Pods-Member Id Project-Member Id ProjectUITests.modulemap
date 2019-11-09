@@ -1,0 +1,6 @@
+framework module Pods_Member_Id_Project_Member_Id_ProjectUITests {
+  umbrella header "Pods-Member Id Project-Member Id ProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
